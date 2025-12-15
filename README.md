@@ -5,7 +5,7 @@
 위 파일들을 다운로드 받고 한 폴더에 압축해제 합니다.
 
 ```npm install
-npm run dev
+npm run dev```
 
 이후 `http://localhost:3000` 으로 들어가면 됩니다.
 
